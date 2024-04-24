@@ -1,3 +1,4 @@
+/* ok */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -16,21 +17,19 @@ p {
   font-size: 22px;
 }
 
-/* ok */
-.button.confirm {
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
 } 
 
-/* ok */
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
-div.text .child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
